@@ -1,4 +1,4 @@
-#Dual Showcase: Jewelry Landing Page & Mercedes-Benz Website
+#Dual Showcase: Jewelry Landing Page & Mercedes-Benz Website#
 Welcome to the Dual Showcase repository, where creativity and innovation collide! This repository presents an impressive duo of websites, each with its own unique charm and purpose. Whether you're seeking elegance or engineering excellence, you're in for a treat.
 
 ##Jewelry Landing Page - https://youtu.be/N2i0wLynYBU
